@@ -1,0 +1,85 @@
+{
+  "user_data": [
+    {
+      "userName": "Kush",
+      "email": "kush.deswal0003@gmail.com",
+      "password": "Kush@123",
+      "repassword": "Kush@123",
+      "id": 1
+    }
+  ],
+  "user_todo": [
+    {
+      "todo": " A",
+      "status": "Pending",
+      "assignedTym": "11:27:48 PM",
+      "assignedDate": "6/2/2023",
+      "finalizeTym": "=",
+      "finalizeDate": "=",
+      "id": 1
+    },
+    {
+      "todo": " B",
+      "status": "Completed",
+      "assignedTym": "11:28:34 PM",
+      "assignedDate": "6/2/2023",
+      "finalizeTym": "11:29:25 PM",
+      "finalizeDate": "6/2/2023",
+      "id": 2
+    },
+    {
+      "todo": " C",
+      "status": "Pending",
+      "assignedTym": "11:28:40 PM",
+      "assignedDate": "6/2/2023",
+      "finalizeTym": "=",
+      "finalizeDate": "=",
+      "id": 3
+    },
+    {
+      "todo": " D",
+      "status": "Pending",
+      "assignedTym": "11:28:47 PM",
+      "assignedDate": "6/2/2023",
+      "finalizeTym": "=",
+      "finalizeDate": "=",
+      "id": 4
+    },
+    {
+      "todo": " E",
+      "status": "Completed",
+      "assignedTym": "11:28:53 PM",
+      "assignedDate": "6/2/2023",
+      "finalizeTym": "11:29:28 PM",
+      "finalizeDate": "6/2/2023",
+      "id": 5
+    },
+    {
+      "todo": " F",
+      "status": "Pending",
+      "assignedTym": "11:28:58 PM",
+      "assignedDate": "6/2/2023",
+      "finalizeTym": "=",
+      "finalizeDate": "=",
+      "id": 6
+    },
+    {
+      "todo": " G",
+      "status": "Pending",
+      "assignedTym": "11:29:05 PM",
+      "assignedDate": "6/2/2023",
+      "finalizeTym": "=",
+      "finalizeDate": "=",
+      "id": 7
+    },
+    {
+      "todo": " H",
+      "status": "Completed",
+      "assignedTym": "11:29:11 PM",
+      "assignedDate": "6/2/2023",
+      "finalizeTym": "11:29:32 PM",
+      "finalizeDate": "6/2/2023",
+      "id": 8
+    }
+  ]
+}
